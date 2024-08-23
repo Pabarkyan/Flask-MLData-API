@@ -25,4 +25,4 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 `source venv/bin/activate`  # O `venv\Scripts\activate` en Windows`
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
